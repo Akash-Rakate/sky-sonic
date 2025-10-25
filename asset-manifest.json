@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sky-sonic/static/css/main.cd652c43.css",
-    "main.js": "/sky-sonic/static/js/main.f0817007.js",
+    "main.js": "/sky-sonic/static/js/main.d67c569a.js",
     "static/js/787.ed8bc52d.chunk.js": "/sky-sonic/static/js/787.ed8bc52d.chunk.js",
     "index.html": "/sky-sonic/index.html",
     "main.cd652c43.css.map": "/sky-sonic/static/css/main.cd652c43.css.map",
-    "main.f0817007.js.map": "/sky-sonic/static/js/main.f0817007.js.map",
+    "main.d67c569a.js.map": "/sky-sonic/static/js/main.d67c569a.js.map",
     "787.ed8bc52d.chunk.js.map": "/sky-sonic/static/js/787.ed8bc52d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd652c43.css",
-    "static/js/main.f0817007.js"
+    "static/js/main.d67c569a.js"
   ]
 }
