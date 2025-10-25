@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skysonic-ecommerce/static/css/main.1dff4048.css",
+    "main.js": "/skysonic-ecommerce/static/js/main.875c7e85.js",
+    "static/js/787.0b5b94e2.chunk.js": "/skysonic-ecommerce/static/js/787.0b5b94e2.chunk.js",
+    "index.html": "/skysonic-ecommerce/index.html",
+    "main.1dff4048.css.map": "/skysonic-ecommerce/static/css/main.1dff4048.css.map",
+    "main.875c7e85.js.map": "/skysonic-ecommerce/static/js/main.875c7e85.js.map",
+    "787.0b5b94e2.chunk.js.map": "/skysonic-ecommerce/static/js/787.0b5b94e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dff4048.css",
+    "static/js/main.875c7e85.js"
+  ]
+}
